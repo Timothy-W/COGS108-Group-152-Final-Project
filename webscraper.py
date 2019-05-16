@@ -21,7 +21,10 @@ dataPath = './data/'
 yearStart = 2000
 yearEnd = 2011
 genreList = ['r-b-hip-hop-songs', 'rap-song', 'country-songs',
-             'alternative-songs', 'hot-mainstream-rock-tracks']
+             'alternative-songs', 'hot-mainstream-rock-tracks', 
+             'adult-contemporary', 'adult-pop-songs', 'pop-songs',
+             'rhythmic-40', 'dance-club-play-songs', 'radio-songs',
+             'hot-100', 'billboard-200', 'latin-songs']
 
 
 for genre in genreList:
