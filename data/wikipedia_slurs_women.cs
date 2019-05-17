@@ -1,4 +1,4 @@
-Slurs
+Slur
 Bean flicker 
 Butch
 butch-broad
